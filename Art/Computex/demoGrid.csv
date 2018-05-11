@@ -1,0 +1,3 @@
+Demo Name,Demo Experience,Conversation,Hardware Footprint,Demo Counter Length, TV or Monitor Needs, Private Network Needed,Public Network Needed,Wired or Wireless,Bandwidth Needs
+"Face Unlock","A user can place their face inf front of a camera and if they are verified the door will unlock, if not nothing happens","AI","Ubuntu PC, Movidius, Monitor","4-6ft",",,,mounted,24 inch","N","N","","N/A"
+"Example","Example Demo","VR","PC","8-10ft","touch,transparent,curved,mounted,43 inch","Y","Y","wired","25Mb"
