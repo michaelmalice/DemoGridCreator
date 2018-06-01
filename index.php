@@ -111,7 +111,7 @@ echo "
 //loop through folders to show events and links to different event pages
 
 foreach (new DirectoryIterator('./') as $user) {
-	if (!$user->isDot() and $user->isDir() and $user != "defaultUser") {
+	if (!$user->isDot() and $user->isDir() and $user != "defaultUser" and $user != ".git") {
 		echo "
 		<h2><a href=\"./$user/\">$user</a></h2>
 		";
